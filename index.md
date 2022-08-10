@@ -1,4 +1,4 @@
-### *Devops*
+### Devops
 
 
 Name: Pedro Pinnola  
@@ -18,7 +18,7 @@ Phone: +549-294-4312772
 * Server monitoring: Zabbix, Grafana, New Relic
 * Terraform
 
-##**Skills**
+##Skills
 
 Incident management    
 Extensive understanding of computer and networking concepts.   
@@ -28,19 +28,19 @@ Broad knowledge and experience of IT operating systems: Windows all versions, Li
 DBs, PostgreSQL, MongoDB, RDS.  
 Development: java, javascript  
 Automation/scripting: Bash, Python.  
-Alert management:  Zabbix, Grafana, new Relic, CloudWatch.  
+Alert management: Zabbix, Grafana, new Relic, CloudWatch.  
 Kubernetes  
 Nginx  
 Cloudflare   
 Terraform  
 
 
-###*Work experiences*:
+###Work experiences:
 * **[ITX corp](https://www.itx.com)**  (2022 - Present) Devops engineer
 
 
 * **[Mobbex](https://www.mobbex.com)**  (2020 - 2022)  SysAdmin/Devops  
-* Docker, docker-compose
+  Docker, docker-compose
   Kubernetes management
   Pipelines (Jenkins, ArgoCD)
   AWS management: IAM, Lambda, EC2, Kubernetes,  
