@@ -6,7 +6,7 @@ City: Bariloche, Rio Negro, Argentina
 Email: pedropinnola@gmail.com  
 Linkedin: [pedropinnola](https://www.linkedin.com/in/pedropinnola)  
 Phone: +549-294-4312772
-
+* * *
 * AWS management: Kubernetes, IAM, Lambda, EC2, CloudWatch, RDS, S3, VPC, KMS, ECS, etc
 * Ci/CD: Jenkins, CircleCI
 * Docker, Docker-compose
@@ -17,41 +17,45 @@ Phone: +549-294-4312772
 * Cloudflare
 * Server monitoring: Zabbix, Grafana, New Relic
 * Terraform
+* Kubernetes
 
+
+* * *
 ##Skills
 
-Incident management    
+Incident management, troubleshooting.    
 Extensive understanding of computer and networking concepts.   
 AWS management: EKS, IAM, Lambda, EC2, CloudWatch, RDS, S3, Route53, VPC, KMS, etc.    
-Deployment of new software, evaluation and prevention of security risks.  
-Broad knowledge and experience of IT operating systems: Windows all versions, Linux.    
-DBs, PostgreSQL, MongoDB, RDS.  
-Development: java, javascript  
+Deployment of new software, evaluation and prevention of security risks.   
+DBs: PostgreSQL, MongoDB, RDS.  
+Development: Java, javascript  
 Automation/scripting: Bash, Python.  
-Alert management: Zabbix, Grafana, new Relic, CloudWatch.  
+Alert management: Zabbix, Grafana, New Relic, CloudWatch.  
 Kubernetes  
 Nginx  
 Cloudflare   
-Terraform  
+Terraform
 
+* * *
 
 ###Work experiences:
-* **[ITX corp](https://www.itx.com)**  (2022 - Present) Devops engineer
+* **[ITX corp](https://www.itx.com)**  (2022 - Present) Devops engineer  
+  Working for a very big e-commerce platform, managing Kubernetes with Terraform. Troubleshooting and incident management.
+  CircleCI pipelines
 
 
 * **[Mobbex](https://www.mobbex.com)**  (2020 - 2022)  SysAdmin/Devops  
-  Docker, docker-compose
-  Kubernetes management
-  Pipelines (Jenkins, ArgoCD)
-  AWS management: IAM, Lambda, EC2, Kubernetes,  
-  CloudWatch, RDS, S3, Route53, VPC, KMS, EKS etc.  
-  Account management: AWS IAM.  
+  Docker, docker-compose  
+  Kubernetes management  
+  Pipelines: Jenkins, ArgoCD   
+  AWS management: IAM, Lambda, EC2, Kubernetes 
+  CloudWatch, RDS, S3, Route53, VPC, KMS, EKS etc.
   Server monitoring: Zabbix, Grafana  
-  Backend development in JAVA and NodeJS.  
-  Migrated most of the services from ElasticBeanstalk to Kubernetes.
+  Backend development in JAVA and NodeJS  
+  I have Migrated most of the services/microservices from ElasticBeanstalk, ECS and EC2 to Kubernetes  
 
 
-* **[Innqube](https://www.innqube.com)**  (2018 - sept. 2020)  Developer
+* **[Innqube](https://www.innqube.com)**  (2018 - sept. 2020)  Developer  
     Angular - SpringBoot - Java - Postgres  - REST API - HTML/CSS
 
 
